@@ -1,4 +1,6 @@
 package flogiston.cg.labs.domain
 
-class Coordinates {
-}
+class Coordinates (
+        val x : Float,
+        val y : Float
+)
